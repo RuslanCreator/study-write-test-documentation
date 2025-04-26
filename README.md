@@ -1,2 +1,3 @@
 # study-write-test-documentation
-test cases, bug reports
+documentation: checklist, test cases, bug reports
+website: https://guru.qahacking.ru/
